@@ -2,7 +2,8 @@
 
 **1st chunk:**
 
-![](Aspose.Words.b216d072-c845-458c-adca-1194e993ae9a.001.jpeg)
+![Aspose Words b216d072-c845-458c-adca-1194e993ae9a 001](https://github.com/tanuj21497/CSE508_Winter2024_A1_2021497/assets/108824263/e306df5d-0cc5-4948-b068-04698b3d9aa8)
+
 
 **Explanation:** This code takes zip file from my computer and upload in the environment of google colab. Zip file contains all text files of texts as of classroom.
 
